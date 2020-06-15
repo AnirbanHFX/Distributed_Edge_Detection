@@ -1,0 +1,4 @@
+# Libraries used in this project
+libpng - http://www.libpng.org/pub/png/libpng.html
+MPICH - https://www.mpich.org/
+zlib - https://zlib.net/
